@@ -2,7 +2,7 @@
   <div>
     <div class="header">
       <h1>PLACED - The catalogue</h1>
-      <img class="placed-logo" src="assets/images/Logo_Placed.svg"/>
+      <img class="placed-logo" src="/images/Logo_Placed.svg"/>
     </div>
     <div class="main">
       <p class="intro">How can new and dynamic digital services help libraries transform into vibrant urban innovation hubs by supporting knowledge creation activities among citizens and turning this knowledge into an ever-growing part of the urban community's shared resources?</p>
@@ -10,8 +10,8 @@
       <p>The groundbreaking aspect is that these services capture knowledge generated through these activities, make them a part of the library's collection, and allow future library users to explore and access them. In this way, PLACED services help break down the institutional walls of the library and make it an integrated part of urban life by creating an ever-evolving collection built on urban activities and knowledge generation.</p>
       <p>Find below the links to the 2 catalogues summarizing our results, in english and in french :</p>
       <div class="links">
-        <a href="assets/fr-catalogue-s.pdf">Version Française</a>
-        <a href="assets/eng-catalogue-v3-s.pdf">English Version</a>
+        <a href="/fr-catalogue-s.pdf">Version Française</a>
+        <a href="/eng-catalogue-v3-s.pdf">English Version</a>
       </div>
     </div>
   </div>
