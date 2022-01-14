@@ -2,7 +2,7 @@
   <div>
     <div class="header">
       <h1>PLACED - The catalogue</h1>
-      <img class="placed-logo" src="/public/Logo_Placed.svg"/>
+      <img class="placed-logo" src="/Logo_Placed.svg"/>
     </div>
     <div class="main">
       <p class="intro">How can new and dynamic digital services help libraries transform into vibrant urban innovation hubs by supporting knowledge creation activities among citizens and turning this knowledge into an ever-growing part of the urban community's shared resources?</p>
