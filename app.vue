@@ -84,6 +84,7 @@ html {
 
 .thumb {
   width: 120px;
+  margin-bottom: 15px;
 }
 
 .links {
