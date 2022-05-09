@@ -20,7 +20,7 @@
         <div class="links">
           <a href="/fr-catalogue-s.pdf">
             <div>
-              <img src="~/assets/catalogue-vf.png">
+              <img src="~/assets/catalogue-fr.png">
               <span>Version française</span>
             </div>
           </a>
