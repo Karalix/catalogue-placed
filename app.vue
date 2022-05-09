@@ -20,13 +20,13 @@
         <div class="links">
           <a href="/fr-catalogue-s.pdf">
             <div>
-              <img src="~/assets/catalogue-fr.png">
+              <img class="thumb" src="~/assets/catalogue-fr.png">
               <span>Version française</span>
             </div>
           </a>
           <a href="/eng-catalogue-v3-s.pdf">
             <div>
-            <img src="~/assets/catalogue-en.png">
+            <img class="thumb" src="~/assets/catalogue-en.png">
             <span>English version</span>
             </div>
           </a>
@@ -75,6 +75,10 @@ html {
 
 .intro {
   font-weight: bold;
+}
+
+.thumb {
+  width: 60px;
 }
 
 .links {
