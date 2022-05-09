@@ -15,10 +15,21 @@
           <li>The website of the project <a href="https://placedproject.eu/">placedproject.eu</a></li>
           <li>Our current work bringing our prototypes to the field <a href="https://www.kronikle.eu">kronikle.eu</a></li>
         </ul>
+        <h2>The PLACED catalogue</h2>
         <p>Find below the links to the 2 catalogues summarizing our results, in english and in french :</p>
         <div class="links">
-          <a href="/fr-catalogue-s.pdf">Version Française</a>
-          <a href="/eng-catalogue-v3-s.pdf">English Version</a>
+          <a href="/fr-catalogue-s.pdf">
+            <div>
+              <img src="~/assets/catalogue-vf.png">
+              <span>Version française</span>
+            </div>
+          </a>
+          <a href="/eng-catalogue-v3-s.pdf">
+            <div>
+            <img src="~/assets/catalogue-en.png">
+            <span>English version</span>
+            </div>
+          </a>
         </div>
       </div>
     </div>
@@ -46,6 +57,7 @@ html {
 
 .ubermain {
   display: flex;
+  justify-content: center;
   align-items: center;
 }
 
