@@ -19,13 +19,13 @@
         <p>Find below the links to the 2 catalogues summarizing our results, in english and in french :</p>
         <div class="links">
           <a href="/fr-catalogue-s.pdf">
-            <div>
+            <div class="thumb-wrapper">
               <img class="thumb" src="~/assets/catalogue-fr.png">
               <span>Version française</span>
             </div>
           </a>
           <a href="/eng-catalogue-v3-s.pdf">
-            <div>
+            <div class="thumb-wrapper">
             <img class="thumb" src="~/assets/catalogue-en.png">
             <span>English version</span>
             </div>
@@ -77,8 +77,13 @@ html {
   font-weight: bold;
 }
 
+.thumb-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
 .thumb {
-  width: 60px;
+  width: 120px;
 }
 
 .links {
